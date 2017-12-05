@@ -1,0 +1,521 @@
+(dp0
+S'Syracuse University'
+p1
+S'Syracuse'
+p2
+sS'University of Pittsburgh-Pittsburgh Campus'
+p3
+S'Pittsburgh'
+p4
+sS'University of Washington-Seattle Campus'
+p5
+S'Washington'
+p6
+sS'Eastern Michigan University'
+p7
+S'Eastern Michigan'
+p8
+sS'Rice University'
+p9
+S'Rice'
+p10
+sS'University of Connecticut'
+p11
+S'Connecticut'
+p12
+sS'University of Florida'
+p13
+S'Florida'
+p14
+sS'Stanford University'
+p15
+S'Stanford'
+p16
+sS'California State University-Fresno'
+p17
+S'Fresno State'
+p18
+sS'University of North Texas'
+p19
+S'North Texas'
+p20
+sS'Marshall University'
+p21
+S'Marshall'
+p22
+sS'University of Cincinnati-Main Campus'
+p23
+S'Cincinnati'
+p24
+sS'University of New Mexico-Main Campus'
+p25
+S'New Mexico'
+p26
+sS'University of South Alabama'
+p27
+S'South Alabama'
+p28
+sS'Washington State University'
+p29
+S'Washington State'
+p30
+sS'Pennsylvania State University-Main Campus'
+p31
+S'Penn State'
+p32
+sS'Florida Atlantic University'
+p33
+S'Florida Atlantic'
+p34
+sS'Ohio University-Main Campus'
+p35
+S'Ohio'
+p36
+sS'University of Memphis'
+p37
+S'Memphis'
+p38
+sS'The University of Texas at San Antonio'
+p39
+S'Texas-San Antonio'
+p40
+sS'Coastal Carolina University'
+p41
+S'Coastal Carolina'
+p42
+sS'Texas A & M University-College Station'
+p43
+S'Texas A&M'
+p44
+sS'Appalachian State University'
+p45
+S'Appalachian State'
+p46
+sS'United States Military Academy'
+p47
+S'Army'
+p48
+sS'University of Illinois at Urbana-Champaign'
+p49
+S'Illinois'
+p50
+sS'Louisiana Tech University'
+p51
+S'Louisiana Tech'
+p52
+sS'East Carolina University'
+p53
+S'East Carolina'
+p54
+sS'The University of Alabama'
+p55
+S'Alabama'
+p56
+sS'Arizona State University-Tempe'
+p57
+S'Arizona State'
+p58
+sS'University of Louisiana at Lafayette'
+p59
+S'Louisiana-Lafayette'
+p60
+sS'University of Nevada-Las Vegas'
+p61
+S'Nevada-Las Vegas'
+p62
+sS'University of Southern California'
+p63
+S'Southern California'
+p64
+sS'San Jose State University'
+p65
+S'San Jose State'
+p66
+sS'Boise State University'
+p67
+S'Boise State'
+p68
+sS'Baylor University'
+p69
+S'Baylor'
+p70
+sS'Louisiana State University and Agricultural & Mechanical College'
+p71
+S'Louisiana State'
+p72
+sS'University of Miami'
+p73
+S'Miami (Florida)'
+p74
+sS'University of Wisconsin-Madison'
+p75
+S'Wisconsin'
+p76
+sS'University of North Carolina at Charlotte'
+p77
+S'Charlotte'
+p78
+sS'Georgia Institute of Technology-Main Campus'
+p79
+S'Georgia Tech'
+p80
+sS'Georgia Southern University'
+p81
+S'Georgia Southern'
+p82
+sS'University of Southern Mississippi'
+p83
+S'Southern Mississippi'
+p84
+sS'Iowa State University'
+p85
+S'Iowa State'
+p86
+sS'Florida International University'
+p87
+S'Florida International'
+p88
+sS'West Virginia University'
+p89
+S'West Virginia'
+p90
+sS'University of Iowa'
+p91
+S'Iowa'
+p92
+sS'University of Kentucky'
+p93
+S'Kentucky'
+p94
+sS'Southern Methodist University'
+p95
+S'Southern Methodist'
+p96
+sS'The University of Texas at Austin'
+p97
+S'Texas'
+p98
+sS'Temple University'
+p99
+S'Temple'
+p100
+sS'University of Maryland-College Park'
+p101
+S'Maryland'
+p102
+sS'University of Tulsa'
+p103
+S'Tulsa'
+p104
+sS'The University of Tennessee-Knoxville'
+p105
+S'Tennessee'
+p106
+sS'Michigan State University'
+p107
+S'Michigan State'
+p108
+sS'Old Dominion University'
+p109
+S'Old Dominion'
+p110
+sS'Bowling Green State University-Main Campus'
+p111
+S'Bowling Green State'
+p112
+sS'Clemson University'
+p113
+S'Clemson'
+p114
+sS'Texas Tech University'
+p115
+S'Texas Tech'
+p116
+sS'University of Utah'
+p117
+S'Utah'
+p118
+sS'Mississippi State University'
+p119
+S'Mississippi State'
+p120
+sS'University of Oklahoma-Norman Campus'
+p121
+S'Oklahoma'
+p122
+sS'San Diego State University'
+p123
+S'San Diego State'
+p124
+sS'University of Missouri-Columbia'
+p125
+S'Missouri'
+p126
+sS'Wake Forest University'
+p127
+S'Wake Forest'
+p128
+sS'Utah State University'
+p129
+S'Utah State'
+p130
+sS'University of Arizona'
+p131
+S'Arizona'
+p132
+sS'University of South Florida-Main Campus'
+p133
+S'South Florida'
+p134
+sS'Colorado State University-Fort Collins'
+p135
+S'Colorado State'
+p136
+sS'Kansas State University'
+p137
+S'Kansas State'
+p138
+sS'University of Notre Dame'
+p139
+S'Notre Dame'
+p140
+sS'Arkansas State University-Main Campus'
+p141
+S'Arkansas State'
+p142
+sS'Tulane University of Louisiana'
+p143
+S'Tulane'
+p144
+sS'Northern Illinois University'
+p145
+S'Northern Illinois'
+p146
+sS'Western Kentucky University'
+p147
+S'Western Kentucky'
+p148
+sS'University of Kansas'
+p149
+S'Kansas'
+p150
+sS'Indiana University-Bloomington'
+p151
+S'Indiana'
+p152
+sS'University of Mississippi'
+p153
+S'Mississippi'
+p154
+sS'University of North Carolina at Chapel Hill'
+p155
+S'North Carolina'
+p156
+sS'University of Akron Main Campus'
+p157
+S'Akron'
+p158
+sS'Boston College'
+p159
+g159
+sS'University of Michigan-Ann Arbor'
+p160
+S'Michigan'
+p161
+sS'Northwestern University'
+p162
+S'Northwestern'
+p163
+sS'University of Houston'
+p164
+S'Houston'
+p165
+sS'University of Nebraska-Lincoln'
+p166
+S'Nebraska'
+p167
+sS'Troy University'
+p168
+S'Troy'
+p169
+sS'Oklahoma State University-Main Campus'
+p170
+S'Oklahoma State'
+p171
+sS'University of Oregon'
+p172
+S'Oregon'
+p173
+sS'University of Idaho'
+p174
+S'Idaho'
+p175
+sS'Vanderbilt University'
+p176
+S'Vanderbilt'
+p177
+sS'University of Alabama at Birmingham'
+p178
+S'Alabama-Birmingham'
+p179
+sS'Texas State University'
+p180
+S'Texas State'
+p181
+sS'University of California-Los Angeles'
+p182
+S'UCLA'
+p183
+sS'Auburn University'
+p184
+S'Auburn'
+p185
+sS'University at Buffalo'
+p186
+S'Buffalo'
+p187
+sS'Central Michigan University'
+p188
+S'Central Michigan'
+p189
+sS'Florida State University'
+p190
+S'Florida State'
+p191
+sS'University of Central Florida'
+p192
+S'Central Florida'
+p193
+sS'University of Louisville'
+p194
+S'Louisville'
+p195
+sS'University of California-Berkeley'
+p196
+S'California'
+p197
+sS'The University of Texas at El Paso'
+p198
+S'Texas-El Paso'
+p199
+sS'New Mexico State University-Main Campus'
+p200
+S'New Mexico State'
+p201
+sS'Virginia Polytechnic Institute and State University'
+p202
+S'Virginia Tech'
+p203
+sS'University of Hawaii at Manoa'
+p204
+S'Hawaii'
+p205
+sS'University of Colorado Boulder'
+p206
+S'Colorado'
+p207
+sS'Ohio State University-Main Campus'
+p208
+S'Ohio State'
+p209
+sS'Brigham Young University-Provo'
+p210
+S'Brigham Young'
+p211
+sS'Duke University'
+p212
+S'Duke'
+p213
+sS'Georgia State University'
+p214
+S'Georgia State'
+p215
+sS'North Carolina State University at Raleigh'
+p216
+S'North Carolina State'
+p217
+sS'University of Wyoming'
+p218
+S'Wyoming'
+p219
+sS'Ball State University'
+p220
+S'Ball State'
+p221
+sS'Middle Tennessee State University'
+p222
+S'Middle Tennessee State'
+p223
+sS'University of Massachusetts-Amherst'
+p224
+S'Massachusetts'
+p225
+sS'University of Georgia'
+p226
+S'Georgia'
+p227
+sS'University of Virginia-Main Campus'
+p228
+S'Virginia'
+p229
+sS'Texas Christian University'
+p230
+S'Texas Christian'
+p231
+sS'Kent State University at Kent'
+p232
+S'Kent'
+p233
+sS'Western Michigan University'
+p234
+S'Western Michigan'
+p235
+sS'Rutgers University-New Brunswick'
+p236
+S'Rutgers'
+p237
+sS'University of Minnesota-Twin Cities'
+p238
+S'Minnesota'
+p239
+sS'Miami University-Oxford'
+p240
+S'Miami-Ohio'
+p241
+sS'Purdue University-Main Campus'
+p242
+S'Purdue'
+p243
+sS'University of Toledo'
+p244
+S'Toledo'
+p245
+sS'University of Nevada-Reno'
+p246
+S'Nevada'
+p247
+sS'United States Air Force Academy'
+p248
+S'Air Force'
+p249
+sS'University of South Carolina-Columbia'
+p250
+S'South Carolina'
+p251
+sS'University of Louisiana at Monroe'
+p252
+S'Louisiana-Monroe'
+p253
+sS'United States Naval Academy'
+p254
+S'Navy'
+p255
+sS'Oregon State University'
+p256
+S'Oregon State'
+p257
+sS'University of Arkansas'
+p258
+S'Arkansas'
+p259
+s.

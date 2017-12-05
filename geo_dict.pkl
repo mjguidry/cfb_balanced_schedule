@@ -1,0 +1,914 @@
+(dp0
+S'Syracuse University'
+p1
+(dp2
+S'lat'
+p3
+F43.0373508
+sS'lng'
+p4
+F-76.1364799
+ssS'University of Washington-Seattle Campus'
+p5
+(dp6
+g3
+F47.6562038
+sg4
+F-122.313284
+ssS'Eastern Michigan University'
+p7
+(dp8
+g3
+F42.245993
+sg4
+F-83.6244504
+ssS'Rice University'
+p9
+(dp10
+g3
+F29.7205594
+sg4
+F-95.3962938
+ssS'University of Connecticut'
+p11
+(dp12
+g3
+F41.8088143
+sg4
+F-72.2498767
+ssS'University of Florida'
+p13
+(dp14
+g3
+F29.6516344
+sg4
+F-82.32482619999999
+ssS'Marshall University'
+p15
+(dp16
+g3
+F38.4223904
+sg4
+F-82.42890419999999
+ssS'University of Cincinnati-Main Campus'
+p17
+(dp18
+g3
+F39.13428589999999
+sg4
+F-84.5187675
+ssS'University of New Mexico-Main Campus'
+p19
+(dp20
+g3
+F35.0893968
+sg4
+F-106.6246758
+ssS'Washington State University'
+p21
+(dp22
+g3
+F46.7319225
+sg4
+F-117.1542121
+ssS'Pennsylvania State University-Main Campus'
+p23
+(dp24
+g3
+F40.7953556
+sg4
+F-77.8613826
+ssS'University of Memphis'
+p25
+(dp26
+g3
+F35.115304
+sg4
+F-89.9556613
+ssS'The University of Texas at San Antonio'
+p27
+(dp28
+g3
+F29.5845107
+sg4
+F-98.61719910000001
+ssS'Appalachian State University'
+p29
+(dp30
+g3
+F36.2109506
+sg4
+F-81.6777048
+ssS'United States Military Academy'
+p31
+(dp32
+g3
+F41.3862844
+sg4
+F-73.96572189999999
+ssS'University of Illinois at Urbana-Champaign'
+p33
+(dp34
+g3
+F40.109694
+sg4
+F-88.2295637
+ssS'Louisiana Tech University'
+p35
+(dp36
+g3
+F32.52688
+sg4
+F-92.64820530000001
+ssS'The University of Alabama'
+p37
+(dp38
+g3
+F33.2095267
+sg4
+F-87.54608069999999
+ssS'Arizona State University-Tempe'
+p39
+(dp40
+g3
+F33.4219437
+sg4
+F-111.9400636
+ssS'University of Iowa'
+p41
+(dp42
+g3
+F41.661897
+sg4
+F-91.5364924
+ssS'The University of Tennessee-Knoxville'
+p43
+(dp44
+g3
+F35.9520507
+sg4
+F-83.92584389999999
+ssS'San Jose State University'
+p45
+(dp46
+g3
+F37.3351424
+sg4
+F-121.8812758
+ssS'University of Kentucky'
+p47
+(dp48
+g3
+F38.0378909
+sg4
+F-84.5071968
+ssS'Georgia Southern University'
+p49
+(dp50
+g3
+F32.4259758
+sg4
+F-81.7825001
+ssS'Ohio University-Main Campus'
+p51
+(dp52
+g3
+F39.3267327
+sg4
+F-82.1009933
+ssS'Southern Methodist University'
+p53
+(dp54
+g3
+F32.8449511
+sg4
+F-96.78593339999999
+ssS'The University of Texas at Austin'
+p55
+(dp56
+g3
+F30.2861062
+sg4
+F-97.7393634
+ssS'Temple University'
+p57
+(dp58
+g3
+F39.9809442
+sg4
+F-75.1578372
+ssS'University of Tulsa'
+p59
+(dp60
+g3
+F36.1490106
+sg4
+F-95.9467696
+ssS'Kent State University at Kent'
+p61
+(dp62
+g3
+F41.1536674
+sg4
+F-81.3578859
+ssS'Texas Tech University'
+p63
+(dp64
+g3
+F33.5845437
+sg4
+F-101.8705678
+ssS'Mississippi State University'
+p65
+(dp66
+g3
+F33.4551975
+sg4
+F-88.78796249999999
+ssS'University of Central Florida'
+p67
+(dp68
+g3
+F28.5968774
+sg4
+F-81.2033083
+ssS'San Diego State University'
+p69
+(dp70
+g3
+F32.7747307
+sg4
+F-117.0693867
+ssS'University of Missouri-Columbia'
+p71
+(dp72
+g3
+F38.945325
+sg4
+F-92.328801
+ssS'Wake Forest University'
+p73
+(dp74
+g3
+F36.1354033
+sg4
+F-80.27922749999999
+ssS'Oregon State University'
+p75
+(dp76
+g3
+F44.5639127
+sg4
+F-123.2747162
+ssS'Colorado State University-Fort Collins'
+p77
+(dp78
+g3
+F40.5747743
+sg4
+F-105.0807267
+ssS'Florida Atlantic University'
+p79
+(dp80
+g3
+F26.3655442
+sg4
+F-80.10234779999999
+ssS'Boise State University'
+p81
+(dp82
+g3
+F43.6050793
+sg4
+F-116.206954
+ssS'University of Akron Main Campus'
+p83
+(dp84
+g3
+F41.076276
+sg4
+F-81.51300499999999
+ssS'Boston College'
+p85
+(dp86
+g3
+F42.3395108
+sg4
+F-71.1659725
+ssS'University of Nebraska-Lincoln'
+p87
+(dp88
+g3
+F40.8169285
+sg4
+F-96.701134
+ssS'Troy University'
+p89
+(dp90
+g3
+F31.7972059
+sg4
+F-85.9517144
+ssS'Oklahoma State University-Main Campus'
+p91
+(dp92
+g3
+F36.1219844
+sg4
+F-97.070567
+ssS'University of Idaho'
+p93
+(dp94
+g3
+F46.7289073
+sg4
+F-117.0209677
+ssS'Vanderbilt University'
+p95
+(dp96
+g3
+F36.1494589
+sg4
+F-86.8028774
+ssS'University of Alabama at Birmingham'
+p97
+(dp98
+g3
+F33.4990618
+sg4
+F-86.816598
+ssS'Texas State University'
+p99
+(dp100
+g3
+F29.8899275
+sg4
+F-97.93630189999999
+ssS'Bowling Green State University-Main Campus'
+p101
+(dp102
+g3
+F41.37546820000001
+sg4
+F-83.6409753
+ssS'Central Michigan University'
+p103
+(dp104
+g3
+F43.5819086
+sg4
+F-84.7756364
+ssS'University of Louisville'
+p105
+(dp106
+g3
+F38.2150536
+sg4
+F-85.76014339999999
+ssS'University of California-Berkeley'
+p107
+(dp108
+g3
+F37.81729380000001
+sg4
+F-122.3697299
+ssS'The University of Texas at El Paso'
+p109
+(dp110
+g3
+F31.7708544
+sg4
+F-106.5046216
+ssS'Georgia State University'
+p111
+(dp112
+g3
+F33.7534327
+sg4
+F-84.38590719999999
+ssS'Virginia Polytechnic Institute and State University'
+p113
+(dp114
+g3
+F37.22838429999999
+sg4
+F-80.42341669999999
+ssS'East Carolina University'
+p115
+(dp116
+g3
+F35.6066409
+sg4
+F-77.3559964
+ssS'University of Virginia-Main Campus'
+p117
+(dp118
+g3
+F38.0365826
+sg4
+F-78.50294439999999
+ssS'Texas Christian University'
+p119
+(dp120
+g3
+F32.7092309
+sg4
+F-97.3592719
+ssS'Rutgers University-New Brunswick'
+p121
+(dp122
+g3
+F40.4981979
+sg4
+F-74.4467796
+ssS'University of Minnesota-Twin Cities'
+p123
+(dp124
+g3
+F44.9758602
+sg4
+F-93.23451089999999
+ssS'Purdue University-Main Campus'
+p125
+(dp126
+g3
+F40.4282112
+sg4
+F-86.9143951
+ssS'University of Toledo'
+p127
+(dp128
+g3
+F41.6624584
+sg4
+F-83.6126008
+ssS'Ohio State University-Main Campus'
+p129
+(dp130
+g3
+F40.0005841
+sg4
+F-83.01340859999999
+ssS'University of Arizona'
+p131
+(dp132
+g3
+F32.2327247
+sg4
+F-110.9508944
+ssS'United States Naval Academy'
+p133
+(dp134
+g3
+F38.9816468
+sg4
+F-76.48620869999999
+ssS'University of Pittsburgh-Pittsburgh Campus'
+p135
+(dp136
+g3
+F40.4443282
+sg4
+F-79.9531548
+ssS'University of Houston'
+p137
+(dp138
+g3
+F29.7203176
+sg4
+F-95.34352799999999
+ssS'Stanford University'
+p139
+(dp140
+g3
+F37.4278015
+sg4
+F-122.1700577
+ssS'California State University-Fresno'
+p141
+(dp142
+g3
+F36.8108284
+sg4
+F-119.7462226
+ssS'University of North Texas'
+p143
+(dp144
+g3
+F33.2112391
+sg4
+F-97.1414643
+ssS'University of South Alabama'
+p145
+(dp146
+g3
+F30.6954258
+sg4
+F-88.1752139
+ssS'Coastal Carolina University'
+p147
+(dp148
+g3
+F33.795026
+sg4
+F-79.011802
+ssS'Texas A & M University-College Station'
+p149
+(dp150
+g3
+F30.627977
+sg4
+F-96.3344068
+ssS'University of Louisiana at Lafayette'
+p151
+(dp152
+g3
+F30.21532029999999
+sg4
+F-92.01909169999999
+ssS'University of Nevada-Las Vegas'
+p153
+(dp154
+g3
+F36.1055757
+sg4
+F-115.1380183
+ssS'University of Southern California'
+p155
+(dp156
+g3
+F34.0309703
+sg4
+F-118.2789735
+ssS'Baylor University'
+p157
+(dp158
+g3
+F31.5447389
+sg4
+F-97.1183626
+ssS'Louisiana State University and Agricultural & Mechanical College'
+p159
+(dp160
+g3
+F30.4150012
+sg4
+F-91.1789198
+ssS'University of Miami'
+p161
+(dp162
+g3
+F25.7191685
+sg4
+F-80.2771253
+ssS'University of Wisconsin-Madison'
+p163
+(dp164
+g3
+F43.074648
+sg4
+F-89.4037032
+ssS'University of North Carolina at Charlotte'
+p165
+(dp166
+g3
+F35.3038112
+sg4
+F-80.7299271
+ssS'Georgia Institute of Technology-Main Campus'
+p167
+(dp168
+g3
+F33.7724173
+sg4
+F-84.39479159999999
+ssS'University of Southern Mississippi'
+p169
+(dp170
+g3
+F32.4635944
+sg4
+F-99.7227831
+ssS'Iowa State University'
+p171
+(dp172
+g3
+F42.0261746
+sg4
+F-93.64844049999999
+ssS'Florida International University'
+p173
+(dp174
+g3
+F25.7580337
+sg4
+F-80.3751759
+ssS'West Virginia University'
+p175
+(dp176
+g3
+F39.6343202
+sg4
+F-79.95442299999999
+ssS'Western Michigan University'
+p177
+(dp178
+g3
+F42.2851393
+sg4
+F-85.6122304
+ssS'University of Maryland-College Park'
+p179
+(dp180
+g3
+F38.9869183
+sg4
+F-76.9425543
+ssS'Old Dominion University'
+p181
+(dp182
+g3
+F36.8889565
+sg4
+F-76.30354439999999
+ssS'North Carolina State University at Raleigh'
+p183
+(dp184
+g3
+F35.7864323
+sg4
+F-78.6634089
+ssS'Michigan State University'
+p185
+(dp186
+g3
+F42.7296495
+sg4
+F-84.4815268
+ssS'Clemson University'
+p187
+(dp188
+g3
+F34.6793819
+sg4
+F-82.8351438
+ssS'University of Utah'
+p189
+(dp190
+g3
+F40.765023
+sg4
+F-111.848931
+ssS'University of Oklahoma-Norman Campus'
+p191
+(dp192
+g3
+F35.2085041
+sg4
+F-97.4456811
+ssS'Utah State University'
+p193
+(dp194
+g3
+F41.7421538
+sg4
+F-111.8076272
+ssS'University of Wyoming'
+p195
+(dp196
+g3
+F41.3114879
+sg4
+F-105.5856487
+ssS'University of South Florida-Main Campus'
+p197
+(dp198
+g3
+F28.0672632
+sg4
+F-82.4120689
+ssS'Kansas State University'
+p199
+(dp200
+g3
+F39.1887175
+sg4
+F-96.58109139999999
+ssS'University of Notre Dame'
+p201
+(dp202
+g3
+F41.7030267
+sg4
+F-86.2390726
+ssS'Tulane University of Louisiana'
+p203
+(dp204
+g3
+F29.9354187
+sg4
+F-90.1228608
+ssS'Western Kentucky University'
+p205
+(dp206
+g3
+F36.9844038
+sg4
+F-86.45619839999999
+ssS'University of Kansas'
+p207
+(dp208
+g3
+F38.958542
+sg4
+F-95.2476138
+ssS'Indiana University-Bloomington'
+p209
+(dp210
+g3
+F39.16609
+sg4
+F-86.5265478
+ssS'University of Mississippi'
+p211
+(dp212
+g3
+F34.3659395
+sg4
+F-89.5253597
+ssS'University of North Carolina at Chapel Hill'
+p213
+(dp214
+g3
+F35.9049122
+sg4
+F-79.0469134
+ssS'University of Michigan-Ann Arbor'
+p215
+(dp216
+g3
+F42.2758739
+sg4
+F-83.7427632
+ssS'Northwestern University'
+p217
+(dp218
+g3
+F42.0506258
+sg4
+F-87.679727
+ssS'University of Oregon'
+p219
+(dp220
+g3
+F44.0448302
+sg4
+F-123.0726055
+ssS'University of California-Los Angeles'
+p221
+(dp222
+g3
+F34.0725988
+sg4
+F-118.439277
+ssS'Auburn University'
+p223
+(dp224
+g3
+F32.5933574
+sg4
+F-85.4951663
+ssS'University of South Carolina-Columbia'
+p225
+(dp226
+g3
+F34.0997278
+sg4
+F-80.9551875
+ssS'Florida State University'
+p227
+(dp228
+g3
+F30.4404775
+sg4
+F-84.2908283
+ssS'Ball State University'
+p229
+(dp230
+g3
+F40.1999048
+sg4
+F-85.4115988
+ssS'New Mexico State University-Main Campus'
+p231
+(dp232
+g3
+F32.2825066
+sg4
+F-106.7530651
+ssS'Middle Tennessee State University'
+p233
+(dp234
+g3
+F35.8436241
+sg4
+F-86.3705889
+ssS'University of Hawaii at Manoa'
+p235
+(dp236
+g3
+F21.2979324
+sg4
+F-157.8208122
+ssS'University of Colorado Boulder'
+p237
+(dp238
+g3
+F40.0034113
+sg4
+F-105.2677661
+ssS'University of Nevada-Reno'
+p239
+(dp240
+g3
+F39.619174
+sg4
+F-119.8905759
+ssS'Brigham Young University-Provo'
+p241
+(dp242
+g3
+F40.2518435
+sg4
+F-111.6493156
+ssS'Duke University'
+p243
+(dp244
+g3
+F36.0011043
+sg4
+F-78.9375022
+ssS'University of Massachusetts-Amherst'
+p245
+(dp246
+g3
+F42.3861771
+sg4
+F-72.5266757
+ssS'University of Georgia'
+p247
+(dp248
+g3
+F33.9562553
+sg4
+F-83.3740399
+ssS'Northern Illinois University'
+p249
+(dp250
+g3
+F41.9339755
+sg4
+F-88.77985369999999
+ssS'Miami University-Oxford'
+p251
+(dp252
+g3
+F39.5086906
+sg4
+F-84.7300176
+ssS'Arkansas State University-Main Campus'
+p253
+(dp254
+g3
+F35.8488952
+sg4
+F-90.66650159999999
+ssS'University at Buffalo'
+p255
+(dp256
+g3
+F42.9566619
+sg4
+F-78.820289
+ssS'University of Louisiana at Monroe'
+p257
+(dp258
+g3
+F32.5286358
+sg4
+F-92.0724997
+ssS'United States Air Force Academy'
+p259
+(dp260
+g3
+F38.9969701
+sg4
+F-104.8436165
+ssS'University of Arkansas'
+p261
+(dp262
+g3
+F36.0699572
+sg4
+F-94.1769533
+ss.
