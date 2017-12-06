@@ -68,6 +68,14 @@ for name in name_map:
                 dist3=100-100.*games_dict[team][team2]/scale_dist3
                 dist_matrix[team][team2]=sqrt(dist1**2+dist2**2+dist3**2)
 
+#Cleanup step
+for team in dist_matrix:
+    for team2 in dist_matrix:
+        if (team!=team2 and dist_matrix[team][team2]!=dist_matrix[team2][team]):
+            val=min(dist_matrix[team][team2],dist_matrix[team2][team])
+            dist_matrix[team][team2]=val
+            dist_matrix[team2][team]=val
+
 f=open('dist_matrix.pkl','wb')
 pickle.dump(dist_matrix,f)
 f.close()
